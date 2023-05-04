@@ -1,6 +1,7 @@
 # hodlinfo
 
 --- npm install express pg
+--- node server.js
 
 # Output
 
